@@ -18,30 +18,18 @@ Remember about OCP, and YAGNI rule at the same time. Don’t care about the styl
 
 1. UoP - we need a Tax calculator. Add an input field with the employee's gross income and output with net income. The tax is calculated with the following rules: 17% tax is applied for the amount up to 7 000zł, and 32% tax is applied for the amount above 7 000zł.
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+=== DON'T PEEK  until you're done with the previous task ===
 
-
-
-
-=== DON'T PEEK  until you're done with the previous task===
-
-
-
-
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 2. B2B - the boss comes in and asks you to add a dropdown where user can select the type tax. UoP is the name of the tax rules implemented in the previous step. B2B rules are simpler. There’s only 19% tax applied regardless of the income. 
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+=== DON'T PEEK  until you're done with the previous task ===
 
-
-
-
-=== DON'T PEEK  until you're done with the previous task===
-
-
-
-
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 3. B2B New Order - next year new taxation rules for B2B introduced and called “New Order”. Users want to simulate the taxes after the New Order introduction. When user selects B2B tax type a “New Order” checkbox should appear. If the checkbox is selected then additional 9% of tax is added.
